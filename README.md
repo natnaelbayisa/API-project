@@ -895,7 +895,11 @@ curl -X DELETE localhost:8000/api/purchases/{purchaseId} \
 	 -H "Authorization: Bearer {token}"
 ```# ApI-project
 ````
+
 # ApI-project
+
 # ApI-project
+
 # ApI-project
+
 # ApI-project
